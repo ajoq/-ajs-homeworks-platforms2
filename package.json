@@ -1,0 +1,22 @@
+{
+  "name": "pack2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajoq/-ajs-homeworks-platforms2.git"
+  },
+  "author": "Konstantin Beloglazov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajoq/-ajs-homeworks-platforms2/issues"
+  },
+  "homepage": "https://github.com/ajoq/-ajs-homeworks-platforms2#readme",
+  "dependencies": {
+    "@ajoq/platforms": "^1.0.0"
+  }
+}
